@@ -9,7 +9,7 @@ git clone https://github.com/zipluciano/basic-node-server
 Change directory
 
 ```
-cd ./node-server
+cd ./basic-node-server
 ```
 
 Install dependencies
