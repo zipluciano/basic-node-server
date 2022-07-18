@@ -3,7 +3,7 @@
 Clone the project
 
 ```
-git clone --pr--
+git clone https://github.com/zipluciano/basic-node-server
 ```
 
 Change directory
